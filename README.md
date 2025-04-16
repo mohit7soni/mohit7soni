@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mohit7soni
 - 👀 I’m interested in web development and machine learning
-- 🌱 I’m currently learning web development,machine learning,python
+- 🌱 I’m currently learning web development,DEV OPS
 - 💞️ I’m looking to collaborate on linkdin
 - 📫 To contact with me here's my email=mohit7soni2003@gmail.com
 
